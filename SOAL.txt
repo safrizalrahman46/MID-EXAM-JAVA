@@ -1,0 +1,11 @@
+      // SOAL
+            // poblem
+            // create program according to the folloowing case!
+            // there is a parking lot behind the mall which is used to park 2-wheeled an 4-wheeled vehicles belonging to mall visitors. the program 
+            // created must be able to accept input in the form of vehicle tyoe (2-wheeled or 4-wheeled ), duration of parking hours, and numer plate.
+            // if the arriving vehicle is a 2-eheeled vehicle, the parking fee is ID 2,000 per hour, while a 4-vhicles is chareged  5,000 per hour
+            // . if the arriving vehicle has an N plate with the starting number 5 (for example N 509 AB, N 5172 AL), then there is a parking fee discount 
+            // of 0,5% of the initial parking fee. calculate the parking fees that visitors must pay!
+            // the output displayed is the type of vehicle, duration of parking hours, number platen, and parking fees.
+            
+            // Make the java code and the flowachart
